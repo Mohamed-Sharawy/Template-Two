@@ -20,6 +20,10 @@ body {
     font-family: "open sans", sans-serif;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 ul {
     list-style: none;
 }
